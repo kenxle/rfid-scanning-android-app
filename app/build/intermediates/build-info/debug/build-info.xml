@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="26"
-    build-mode="COLD"
-    density="420dpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    build-mode="FULL"
+    density="xxxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1525808085924"
+    timestamp="1525878991607"
     token="-4712677468514940279"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -23,13 +23,47 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1525786744266"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
+        timestamp="1525878991607"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
@@ -49,10 +83,10 @@
             location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -67,63 +101,5 @@
             location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1525799382923"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1525800075492"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1525800377035"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1525808085924"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

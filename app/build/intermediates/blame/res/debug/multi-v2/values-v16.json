@@ -23,7 +23,17 @@
                     }
                 },
                 {
-                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/d2f23a0fdc8b17eed80941cf3d52a339/res/values-v16/values-v16.xml",
+                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -39,16 +49,6 @@
                         "endLines": "12",
                         "endColumns": "12",
                         "endOffsets": "636"
-                    }
-                },
-                {
-                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

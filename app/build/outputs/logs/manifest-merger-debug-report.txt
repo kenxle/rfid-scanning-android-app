@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
 MERGED from [com.android.databinding:adapters:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/4c8a5a27cd39991c9eb3ed0ab7f4241a/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/652b3cd7b702152ae12a01596793af13/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:17:1-28:12
@@ -11,6 +11,7 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:2:1-11:12
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/0e12bf87c8b409c64a2e3ff9f4a53299/AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:17:1-34:12
 MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:17:1-31:12
@@ -25,20 +26,20 @@ MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kennethrstclairiii/.gr
 MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/1f234e852088b861e1fde95aa7128886/AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/1881a334bf3bed0f5b91874a73885219/AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cbbca66859e06e05bf0da25499b22c6d/AndroidManifest.xml:17:1-26:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
-INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
 	package
 		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-89:12
 		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
@@ -46,8 +47,12 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:5-66
 	android:name
 		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.NFC
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-62
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-59
 application
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:23:5-69:19
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-88:19
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:25:5-29:19
@@ -58,6 +63,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /User
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:9:5-20
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:26:5-40:19
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/0e12bf87c8b409c64a2e3ff9f4a53299/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/0e12bf87c8b409c64a2e3ff9f4a53299/AndroidManifest.xml:9:5-20
 MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:26:5-32:19
 MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:26:5-32:19
 MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:25:5-29:19
@@ -77,69 +84,89 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstc
 MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-35
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-41
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-43
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
 	android:allowBackup
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
 	android:theme
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-40
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
 activity#com.example.android.sunshine.ui.list.MainActivity
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:31:9-40:20
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-37:20
 	android:label
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-45
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
 	android:launchMode
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-43
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
 	android:theme
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-53
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:13-49
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-39:29
-action#android.intent.action.MAIN
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:17-68
-	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:17-76
-	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:27-74
-activity#com.example.android.sunshine.ui.detail.DetailActivity
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:9-52:20
-	android:parentActivityName
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:13-63
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.list.FakeWadActivity
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:39:9-48:20
 	android:label
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-58
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-45
+	android:launchMode
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-43
 	android:theme
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:13-44
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-53
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-53
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:27-74
+activity#com.example.android.sunshine.ui.list.FakePartActivity
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:9-59:20
+	android:parentActivityName
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:53:13-66
+	android:label
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:51:13-53
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-50:56
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:55:13-57:59
 	android:value
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:17-54
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:17-57
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-63
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:17-63
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:9-71:20
+	android:parentActivityName
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:13-63
+	android:label
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-58
+	android:theme
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-53
 service#com.example.android.sunshine.data.network.SunshineSyncIntentService
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:9-58:40
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:75:9-77:40
 	android:exported
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:13-37
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:77:13-37
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-67
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:76:13-67
 service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-67:19
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:80:9-86:19
 	android:exported
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:82:13-37
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-68
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:81:13-68
 intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-66:29
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:83:13-85:29
 action#com.firebase.jobdispatcher.ACTION_EXECUTE
-ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:17-83
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:84:17-83
 	android:name
-		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:25-81
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:84:25-81
 uses-sdk
 INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
@@ -158,6 +185,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /User
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:22:5-24:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/0e12bf87c8b409c64a2e3ff9f4a53299/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/0e12bf87c8b409c64a2e3ff9f4a53299/AndroidManifest.xml:7:5-43
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:22:5-24:41
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:22:5-24:41
 MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:22:5-24:41

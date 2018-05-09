@@ -4,7 +4,7 @@
             "outputFile": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/d2f23a0fdc8b17eed80941cf3d52a339/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

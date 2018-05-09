@@ -111,9 +111,10 @@ public class MainActivity extends LifecycleActivity implements
             mForecastAdapter.swapForecast(weatherEntries);
             if (mPosition == RecyclerView.NO_POSITION) mPosition = 0;
             mRecyclerView.smoothScrollToPosition(mPosition);
-            // Show the weather list or the loading screen based on whether the forecast data exists
-            // and is loaded
-            if (weatherEntries != null && weatherEntries.size() != 0) showWeatherDataView();
+
+                    // Show the weather list or the loading screen based on whether the forecast data exists
+                            // and is loaded
+                                    if (weatherEntries != null && weatherEntries.size() != 0) showWeatherDataView();
             else showLoading();
         });
 
