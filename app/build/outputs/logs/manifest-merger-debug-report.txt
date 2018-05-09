@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/4c8a5a27cd39991c9eb3ed0ab7f4241a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/652b3cd7b702152ae12a01596793af13/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4733887463eb2e2db38c1a807748c5f8/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/1f234e852088b861e1fde95aa7128886/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/1881a334bf3bed0f5b91874a73885219/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cbbca66859e06e05bf0da25499b22c6d/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:21:22-64
+application
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:23:5-69:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:26:5-32:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-45
+	android:launchMode
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-43
+	android:theme
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:parentActivityName
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:13-63
+	android:label
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-58
+	android:theme
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-50:56
+	android:value
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:17-54
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/4c8a5a27cd39991c9eb3ed0ab7f4241a/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/4c8a5a27cd39991c9eb3ed0ab7f4241a/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/652b3cd7b702152ae12a01596793af13/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/652b3cd7b702152ae12a01596793af13/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/8cac77ba2056f1340c4aea1d9d2867f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/a12cf5aef04a015f067591e20b50675f/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4733887463eb2e2db38c1a807748c5f8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4733887463eb2e2db38c1a807748c5f8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/1f234e852088b861e1fde95aa7128886/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/1f234e852088b861e1fde95aa7128886/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/1881a334bf3bed0f5b91874a73885219/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/1881a334bf3bed0f5b91874a73885219/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cbbca66859e06e05bf0da25499b22c6d/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/cbbca66859e06e05bf0da25499b22c6d/AndroidManifest.xml:22:5-24:41
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2b856db75a2a6da0da02f6c6f4ba8588/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6aff416d001e9828fc4326b71bd1f783/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5bce2c480801783a5b74f3d193ae7e1d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/91acb9927ef1ee250065a738cbc8a14c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/48b818af3e392ec9bc59f5b17a9eba6a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f5481c0d90769c7a830c191f6121c026/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a0d4e6577ff560a1b6068f5df4b68ce2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4f5167a75dc9c1d9b2499d8e5d914ee8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0426c5a56c9491f89f2d0e61a8da3eed/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/cf11ade1d35941fb90983899d7612150/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/13d0e5560eed13748f492781c38e4e2b/AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] /Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-alpha9.aar/13be1768102a61ee0d588b9135ef74d2/AndroidManifest.xml:28:13-81

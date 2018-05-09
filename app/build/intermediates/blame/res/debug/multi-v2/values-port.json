@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/res/values-port/bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "692",
+                        "endColumns": "45",
+                        "endOffsets": "733"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "45",
+                        "endOffsets": "152"
+                    }
+                },
+                {
+                    "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/d2f23a0fdc8b17eed80941cf3d52a339/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

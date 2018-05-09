@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/extra_weather_details.xml",
+        "source": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/res/layout/extra_weather_details.xml"
+    },
+    {
+        "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/primary_weather_info.xml",
+        "source": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/res/layout/primary_weather_info.xml"
+    }
+]
