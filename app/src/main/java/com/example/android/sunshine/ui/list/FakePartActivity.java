@@ -1,13 +1,17 @@
 package com.example.android.sunshine.ui.list;
 
+import android.Manifest;
 import android.arch.lifecycle.LifecycleActivity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.nfc.NfcAdapter;
 import android.nfc.Tag;
 import android.os.Bundle;
 import android.provider.MediaStore;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.LinearLayoutManager;
 import android.view.View;
 import android.widget.ImageView;
@@ -38,13 +42,14 @@ public class FakePartActivity extends LifecycleActivity  {
     TextView textViewInfo;
     String tag_rfid;
     ImageView mImageView;
+    static int CAMERA_PERMISSION = 9;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.fake_part);
         textViewInfo = (TextView)findViewById(R.id.info);
-
+        mImageView = (ImageView)findViewById(R.id.part_picture);
         nfcAdapter = NfcAdapter.getDefaultAdapter(this);
         if(nfcAdapter == null){
             Toast.makeText(this,
@@ -65,7 +70,12 @@ public class FakePartActivity extends LifecycleActivity  {
         Toast.makeText(this,
                 "Sending Media",
                 Toast.LENGTH_LONG).show();
-//        dispatchTakePictureIntent();
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)
+                != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this,
+                    new String[]{Manifest.permission.CAMERA}, CAMERA_PERMISSION);
+        }
+        dispatchTakePictureIntent();
     }
 
     static final int REQUEST_IMAGE_CAPTURE = 1;
