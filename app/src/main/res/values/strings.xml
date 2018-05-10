@@ -42,6 +42,8 @@
     <string name="title_activity_detail">Details</string>
 
     <string name="parts_title">Part</string>
+    <string name="send_report_button_text">Send Report</string>
+    <string name="send_media_button_text">Send Media</string>
 
 
     <!-- - - - - - - - - - - - - - -

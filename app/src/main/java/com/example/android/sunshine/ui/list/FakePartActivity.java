@@ -7,6 +7,7 @@ import android.nfc.NfcAdapter;
 import android.nfc.Tag;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
+import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -53,6 +54,25 @@ public class FakePartActivity extends LifecycleActivity  {
         }
     }
 
+    /** Called when the user touches the button */
+    public void sendMedia(View view) {
+        // Do something in response to button click
+        Toast.makeText(this,
+                "Sending Media",
+                Toast.LENGTH_LONG).show();
+    }
+
+    /** Called when the user touches the button */
+    public void sendReport(View view) {
+        // Do something in response to button click
+        Toast.makeText(this,
+                "Sending Report",
+                Toast.LENGTH_LONG).show();
+    }
+
+    /**
+     * This method takes care of the RFID reading
+     */
     @Override
     protected void onResume() {
         super.onResume();

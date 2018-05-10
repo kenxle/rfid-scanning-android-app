@@ -15,15 +15,16 @@
   ~ limitations under the License.
   -->
 <!-- This layout defines the main screen and will display the list of weather or an error -->
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-             android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/parts_title"
         style="@style/DetailLabel"
-        android:text="@string/humidity_label"
+        android:text="@string/parts_title"
         app:layout_constraintBottom_toTopOf="@+id/pressure_label"
         app:layout_constraintLeft_toLeftOf="@+id/extra_details"
         app:layout_constraintTop_toTopOf="@+id/extra_details"
@@ -37,4 +38,15 @@
         android:id="@+id/webresponse"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-</FrameLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/send_report_button_text"
+        android:onClick="sendReport" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/send_media_button_text"
+        android:onClick="sendMedia" />
+</LinearLayout>
