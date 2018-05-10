@@ -21,6 +21,15 @@
              android:layout_height="match_parent">
 
     <TextView
+        android:id="@+id/parts_title"
+        style="@style/DetailLabel"
+        android:text="@string/humidity_label"
+        app:layout_constraintBottom_toTopOf="@+id/pressure_label"
+        app:layout_constraintLeft_toLeftOf="@+id/extra_details"
+        app:layout_constraintTop_toTopOf="@+id/extra_details"
+        app:layout_constraintVertical_bias="0.33"/>
+
+    <TextView
         android:id="@+id/info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

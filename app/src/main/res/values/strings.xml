@@ -41,6 +41,8 @@
     <!-- Title of the DetailActivity -->
     <string name="title_activity_detail">Details</string>
 
+    <string name="parts_title">Part</string>
+
 
     <!-- - - - - - - - - - - - - - -
       - Used by SunshineDateUtils  -

@@ -1184,12 +1184,12 @@
         "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/res/merged/debug/layout_fake_part.xml.flat",
         "source": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/src/main/res/layout/fake_part.xml"
+    },
+    {
+        "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/kennethrstclairiii/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0900f3de526ff571b4a64bfd4a8afe11/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/kennethrstclairiii/Downloads/architectureComponentsSunshineStartingCode/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
