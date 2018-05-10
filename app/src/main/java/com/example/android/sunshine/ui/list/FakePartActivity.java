@@ -3,11 +3,14 @@ package com.example.android.sunshine.ui.list;
 import android.arch.lifecycle.LifecycleActivity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.nfc.NfcAdapter;
 import android.nfc.Tag;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v7.widget.LinearLayoutManager;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -33,6 +36,8 @@ public class FakePartActivity extends LifecycleActivity  {
 
     private NfcAdapter nfcAdapter;
     TextView textViewInfo;
+    String tag_rfid;
+    ImageView mImageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,6 +65,23 @@ public class FakePartActivity extends LifecycleActivity  {
         Toast.makeText(this,
                 "Sending Media",
                 Toast.LENGTH_LONG).show();
+//        dispatchTakePictureIntent();
+    }
+
+    static final int REQUEST_IMAGE_CAPTURE = 1;
+    private void dispatchTakePictureIntent() {
+        Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
+            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
+        }
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
+            Bundle extras = data.getExtras();
+            Bitmap imageBitmap = (Bitmap) extras.get("data");
+            mImageView.setImageBitmap(imageBitmap);
+        }
     }
 
     /** Called when the user touches the button */
@@ -68,6 +90,11 @@ public class FakePartActivity extends LifecycleActivity  {
         Toast.makeText(this,
                 "Sending Report",
                 Toast.LENGTH_LONG).show();
+        final TextView mTextView = (TextView) findViewById(R.id.webresponse);
+        // Instantiate the RequestQueue.
+        String url ="http://nasa.juggl.me/api/v1/rfid_scans.json";
+
+        postNewComment(this, url, this.tag_rfid, mTextView);
     }
 
     /**
@@ -108,13 +135,10 @@ public class FakePartActivity extends LifecycleActivity  {
                     tagInfo += techList[i] + "\n ";
                 }
 
+                this.tag_rfid = tttid;
                 textViewInfo.setText(tagInfo);
 
-                final TextView mTextView = (TextView) findViewById(R.id.webresponse);
-                // Instantiate the RequestQueue.
-                String url ="http://nasa.juggl.me/api/v1/rfid_scans.json";
 
-                postNewComment(this, url, tttid, mTextView);
 
             }
         }else{
