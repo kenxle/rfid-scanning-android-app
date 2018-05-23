@@ -19,40 +19,56 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="horizontal">
 
-    <TextView
-        android:id="@+id/parts_title"
-        style="@style/DetailLabel"
-        android:text="@string/parts_title"
-        app:layout_constraintBottom_toTopOf="@+id/pressure_label"
-        app:layout_constraintLeft_toLeftOf="@+id/extra_details"
-        app:layout_constraintTop_toTopOf="@+id/extra_details"
-        app:layout_constraintVertical_bias="0.33"/>
-
-    <TextView
-        android:id="@+id/info"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    <TextView
-        android:id="@+id/webresponse"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/send_report_button_text"
-        android:onClick="sendReport" />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/send_media_button_text"
-        android:onClick="sendMedia" />
-
-    <ImageView
-        android:id="@+id/part_picture"
-        android:layout_width="1012dp"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="300dp"
         android:layout_height="match_parent"
-         />
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/parts_title"
+            style="@style/DetailLabel"
+            android:text="@string/parts_title"/>
+
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/webresponse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/send_report_button_text"
+            android:onClick="sendReport" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/send_media_button_text"
+            android:onClick="sendMedia" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/part_picture"
+            android:layout_width="200dp"
+            android:layout_height="200dp" />
+        <Button
+            android:id="@+id/send_media_http"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/send_media_http_button_text"
+            android:onClick="sendMediaHttp"
+            android:visibility="gone" />
+    </LinearLayout>
 </LinearLayout>

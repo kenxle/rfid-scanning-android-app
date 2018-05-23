@@ -92,11 +92,11 @@ public final class R {
         public static final int notification_main_column_container = 0x7f070058;
         public static final int right_icon = 0x7f07006a;
         public static final int right_side = 0x7f07006b;
-        public static final int status_bar_latest_event_content = 0x7f07008a;
-        public static final int text = 0x7f07008f;
-        public static final int text2 = 0x7f070090;
-        public static final int time = 0x7f070094;
-        public static final int title = 0x7f070095;
+        public static final int status_bar_latest_event_content = 0x7f07008b;
+        public static final int text = 0x7f070090;
+        public static final int text2 = 0x7f070091;
+        public static final int time = 0x7f070095;
+        public static final int title = 0x7f070096;
     }
     public static final class integer {
         public static final int cancel_button_image_alpha = 0x7f080002;
@@ -120,7 +120,7 @@ public final class R {
         public static final int notification_template_part_time = 0x7f090030;
     }
     public static final class string {
-        public static final int status_bar_notification_info_overflow = 0x7f0b006c;
+        public static final int status_bar_notification_info_overflow = 0x7f0b006d;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f0c010b;

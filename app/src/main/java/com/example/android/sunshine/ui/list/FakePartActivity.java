@@ -92,6 +92,14 @@ public class FakePartActivity extends LifecycleActivity  {
             Bitmap imageBitmap = (Bitmap) extras.get("data");
             mImageView.setImageBitmap(imageBitmap);
         }
+        View b = findViewById(R.id.send_media_http);
+        b.setVisibility(View.VISIBLE);
+    }
+
+    public void sendMediaHttp(View view){
+        Toast.makeText(this,
+                "Sending photo",
+                Toast.LENGTH_LONG).show();
     }
 
     /** Called when the user touches the button */

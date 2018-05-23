@@ -44,7 +44,7 @@
     <string name="parts_title">Part</string>
     <string name="send_report_button_text">Send Report</string>
     <string name="send_media_button_text">Send Media</string>
-
+    <string name="send_media_http_button_text">Upload Image</string>
 
     <!-- - - - - - - - - - - - - - -
       - Used by SunshineDateUtils  -
